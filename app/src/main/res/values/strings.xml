@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dirumahaja</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="greeting">Hi, %s :)</string>
+</resources>
